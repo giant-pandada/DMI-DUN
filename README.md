@@ -1,2 +1,2 @@
 # MsDUF
-Test model and training model will be uploaded immediately.
+Test model and Train model will be uploaded immediately.
