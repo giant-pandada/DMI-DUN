@@ -13,7 +13,7 @@ Place the train dataset into the folder you set in the loader.py.
 The model parameters will be saved under the name "model.pth" in the "./results/{cs_ratio}/models/" folder.
 
 ## Pretrained Models
-- [Baidu Drive](https://pan.baidu.com/s/1bNS0zs5shhjhP3moceAOWQ?pwd=0929)
+- [Baidu Drive](https://pan.baidu.com/s/1bNS0zs5shhjhP3moceAOWQ?pwd=0929)or[Google Drive](https://drive.google.com/file/d/1xddsySZEbRo2ksd3Bb1sI0uOBQg0PbO_/view?usp=sharing)
 
 ## Requirements
 - Python == 3.8
